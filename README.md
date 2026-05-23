@@ -5,7 +5,7 @@ A clean, dark-themed personal portfolio website built with plain HTML, CSS, and 
 **🔗 Live Site:**
 https://AdityaKumar099.github.io
 
----
+--
 
 ## 📸 What's Inside
 
