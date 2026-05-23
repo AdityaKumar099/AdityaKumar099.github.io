@@ -3,7 +3,7 @@
 A clean, dark-themed personal portfolio website built with plain HTML, CSS, and JavaScript. No frameworks, no installations — just open and go.
 
 **🔗 Live Site:**
-https://AdityaKumar099-blip.github.io/
+https://AdityaKumar099.github.io
 
 ---
 
