@@ -2,10 +2,10 @@
 
 A clean, dark-themed personal portfolio website built with plain HTML, CSS, and JavaScript. No frameworks, no installations — just open and go.
 
-**🔗 Live Site:** [https://your-username.github.io]([)](https://adityakumar879706-blip.github.io/Portfolio/)
+**🔗 Live Site:** ([)](https://adityakumar879706-blip.github.io/Portfolio/)
 
 ---
-https://adityakumar879706-blip.github.io/Portfolio/
+
 ## 📸 What's Inside
 
 - **Hero Section** — Introduction with animated avatar
